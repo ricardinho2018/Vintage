@@ -1,0 +1,2 @@
+MAIN MENU:1 - Registar,2 - Lista das encomendas,3 -  Total no funcionamento,4 - Atualizar sistema
+MENU1:1 - Registar Utilizador,2 - Fazer Encomenda,3 - Criar Transportador,4 - Criar Artigo,5 - Lançar  Fatura,6 - Vendedor que mais faturou,7 - Transportador que mais faturou
