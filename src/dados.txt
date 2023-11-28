@@ -1,0 +1,13 @@
+01/01/2021,João Silva,Maria Santos,Transportadora A,Mala,1500.00
+02/01/2021,Ana Oliveira,Carlos Fernandes,Transportadora B,Sapatilha,800.50
+03/01/2021,João Silva,Maria Santos,Transportadora C,Tshirt,250.75
+04/01/2021,Ana Oliveira,João Silva,Transportadora D,Mala,1200.25
+05/01/2021,Maria Santos,Carlos Fernandes,Transportadora E,Sapatilha,350.00
+06/01/2021,João Silva,Carlos Fernandes,Transportadora F,Mala,900.50
+07/01/2021,Ana Oliveira,Maria Santos,Transportadora G,Mala,700.25
+08/01/2021,João Silva,Carlos Fernandes,Transportadora H,Tshirt,1000.00
+09/01/2021,Ana Oliveira,Maria Santos,Transportadora I,Mala,550.75
+10/01/2021,Maria Santos,João Silva,Transportadora J,Mala,1800.25
+
+
+
